@@ -47,6 +47,10 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`* * *` | user | edit a person's details | make small changes instead of deleting and recreating the person
+`* * *` | user | toggle privacy of contact details | manage privacy settings on the fly, instead of deleting and recreating the person
+`* *` | user | have the option to leave out some fields for a person | add persons who might not have email, for example
+`* *` | user | add multiple entries for each field | add persons who may have more than one email address, for example
 
 
 ## Appendix B : Use Cases
